@@ -20,5 +20,5 @@
     <div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=felixLumyni&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="felixLumyni" /></div>
     <br />
     <br />
-    <!--div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felixLumyni&show_icons=true&locale=en&layout=compact&theme=material-palenight&langs_count=6" alt="felixLumyni" /></div-->
+    <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=felixLumyni&show_icons=true&locale=en&layout=compact&theme=material-palenight&langs_count=6" alt="felixLumyni" /></div>
 </p>
